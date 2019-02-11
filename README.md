@@ -1,4 +1,4 @@
-# WhiteDwarf_Thermonuclear_Transients
+# White Dwarf Thermonuclear Transients
 Data and example scripts associated with:
 "Optical Thermonuclear Transients from Tidal Compression of White Dwarfs as Tracers of the Low End of the Massive Black Hole Mass Function" 
 by Morgan MacLeod, James Guillochon, Enrico Ramirez-Ruiz, Daniel Kasen, and Stephan Rosswog
