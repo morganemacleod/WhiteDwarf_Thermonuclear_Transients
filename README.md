@@ -5,4 +5,8 @@ by Morgan MacLeod, James Guillochon, Enrico Ramirez-Ruiz, Daniel Kasen, and Step
 
 http://adsabs.harvard.edu/abs/2016ApJ...819....3M
 
-Work using these data are requested to cite the paper above. 
+Work using these data are requested to cite the paper above and link to this repository. 
+
+Thank you! 
+
+Morgan MacLeod
